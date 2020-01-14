@@ -106,13 +106,13 @@ Implemented features:
 ## Running the project
 
 ```
-git clone https://github.com/mdrabic5/baby-wolfram-alpha.git
+$ git clone https://github.com/mdrabic5/baby-wolfram-alpha.git
 
-cd BabyWolframAlpha/
+$ cd BabyWolframAlpha/
 
-ghc -isrc/ Main.hs
+$ ghc -isrc/ Main.hs
 
-./Main
+$ ./Main
 ```
 
 ## Contributing
