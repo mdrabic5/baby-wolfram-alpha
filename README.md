@@ -22,26 +22,26 @@ Examples:
 	- -:	hairlessNappa - rapunzelRaditz + 9001
 	- *:	( divineDragonShenron + 7 * dragonBalls ) * supernaturalHeaventlyPower
 	- /:	nirvanaSearchingPiccolo / bestMateForeverKrilin + whatIfFusionCharacterPrilin
-			( theReturnOfCoolCooler / 10 ) / 10
+		( theReturnOfCoolCooler / 10 ) / 10
 	- ^:	welcomeToTheDarkSideGokuBlack ^ ( - 1000 ) + mightySonGoku ^ 1000
-			( kamehamehaaaaaaaaa ^ 9000 ) ^ 9000
+		( kamehamehaaaaaaaaa ^ 9000 ) ^ 9000
 
 2. The unary operators:
-			superSpeedyBubbles - 50 * ( - banana ) + hahahahahaKingKai
+		superSpeedyBubbles - 50 * ( - banana ) + hahahahahaKingKai
 
 3. The basic functions:
 	- f = (sin, cos, exp, log):
-			2 + f 0
-			91 * 2 ^ 2 + f ( personalityDisorderedMajinBuu )
+		2 + f 0
+		91 * 2 ^ 2 + f ( personalityDisorderedMajinBuu )
 
 4. The brackets:
-			( 10 + ( 15 * ( exp studMasterRoshi ) - 11) * 10 )
+		( 10 + ( 15 * ( exp studMasterRoshi ) - 11) * 10 )
 
 5. Integer and decimal numbers:
-			- 11.158 + 58 * 123456.5
+		- 11.158 + 58 * 123456.5
 
 6. The arbitrary number of variables:
-			sin ( superSaiyanGodGoku * itsOver9000 + greatApeVegeta - sadisticTyrantFrieza - sleeeeeeeepyBeerus * 0 )
+		sin ( superSaiyanGodGoku * itsOver9000 + greatApeVegeta - sadisticTyrantFrieza - sleeeeeeeepyBeerus * 0 )
 
 ```
 
