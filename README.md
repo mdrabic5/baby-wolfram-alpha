@@ -50,13 +50,13 @@ Implemented features:
 	- requirement:
 		- input needs to be entered in a valid format (every token needs to be separeted with whitespace)
 
-  ```
-	-- valid: x * 2 + 3 * ( y + 1 ) + sin x
-	-- not valid: x*2 + 3-(y +1 ) + sin x
+    ```
+		-- valid: x * 2 + 3 * ( y + 1 ) + sin x
+		-- not valid: x*2 + 3-(y +1 ) + sin x
 
-	testTree = createExpression "2 * ( x ^ 2 ) + sin ( y + x )"
+		testTree = createExpression "2 * ( x ^ 2 ) + sin ( y + x )"
 
-  ```
+  	```
 
 2. Derive the expression by any variable present in the expression - **deriveBy** function:
 	```
@@ -82,15 +82,15 @@ Implemented features:
 	- requirement:
 		- before an expression can be evaluated, all variables in the expression need to be substituted with certain value
 
-  ```
-	-- expression: 2 * ( 2 ^ 2 ) + sin 0
-	-- evaluated expression: 8
+  	```
+		-- expression: 2 * ( 2 ^ 2 ) + sin 0
+		-- evaluated expression: 8
 
-	testTree2 = createExpression "2 * ( 2 ^ 2 ) + sin 0"
+		testTree2 = createExpression "2 * ( 2 ^ 2 ) + sin 0"
 
-	testEvaluate = evaluate $ testTree2
+		testEvaluate = evaluate $ testTree2
 
-  ```
+  	```
 
 5. Beautify the expression - **beautify** function:
 	```
