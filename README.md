@@ -18,19 +18,19 @@ Baby Wolfram Alpha supports:
 Examples:
 ```
 1. The basic arithmetic operators:
-    - +:	1 + sonGoku + 1 + chiChi + 2 + sonGohan + sonGoten
-    - -:	hairlessNappa - rapunzelRaditz + 9001
-    - *:	( divineDragonShenron + 7 * dragonBalls ) * supernaturalHeaventlyPower
-    - /:	nirvanaSearchingPiccolo / bestMateForeverKrilin + whatIfFusionCharacterPrilin
+   - +:	1 + sonGoku + 1 + chiChi + 2 + sonGohan + sonGoten
+   - -:	hairlessNappa - rapunzelRaditz + 9001
+   - *:	( divineDragonShenron + 7 * dragonBalls ) * supernaturalHeaventlyPower
+   - /:	nirvanaSearchingPiccolo / bestMateForeverKrilin + whatIfFusionCharacterPrilin
 	( theReturnOfCoolCooler / 10 ) / 10
-    - ^:	welcomeToTheDarkSideGokuBlack ^ ( - 1000 ) + mightySonGoku ^ 1000
+   - ^:	welcomeToTheDarkSideGokuBlack ^ ( - 1000 ) + mightySonGoku ^ 1000
 	( kamehamehaaaaaaaaa ^ 9000 ) ^ 9000
 
 2. The unary operators:
 	superSpeedyBubbles - 50 * ( - banana ) + hahahahahaKingKai
 
 3. The basic functions:
-    - f = (sin, cos, exp, log):
+   - f = (sin, cos, exp, log):
 	2 + f 0
 	91 * 2 ^ 2 + f ( personalityDisorderedMajinBuu )
 
