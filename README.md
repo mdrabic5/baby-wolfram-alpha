@@ -3,7 +3,7 @@
 Baby Wolfram Alpha is a simple symbolic computation framework which was a project assignment for Programming in Haskell course at Faculty of Electrical Engineering and Computing in Zagreb, academic year 2016/2017.
 The idea is that you can write an arithmetic expression such as: 2 ∗ x + 3 ∗ y ^ 2 + cos y and then do transformations on this expression such as evaluation at a given point, getting a partial derivative, adding it with another expression and so on.
 
-## Descripton
+## Description
 
 Baby Wolfram Alpha supports:
 1. the basic arithmetic operators: +, -, *, /, ^
