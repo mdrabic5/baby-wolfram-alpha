@@ -32,7 +32,7 @@ Examples:
 3. The basic functions:
    - f = (sin, cos, exp, log):
 	2 + f 0
-	91 * 2 ^ 2 + f ( personalityDisorderedMajinBuu )
+	91 * 2 ^ 2 + f ( personalityDisorderedMajinBuu * 10 )
 
 4. The brackets:
 	( 10 + ( 15 * ( exp studMasterRoshi ) - 11) * 10 )
